@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923185434342",
+    "project_id": "e-commerce-app-fcb48",
+    "storage_bucket": "e-commerce-app-fcb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923185434342:android:a86e751be40df4ca0a3527",
+        "android_client_info": {
+          "package_name": "com.example.e_commerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBCJg5sA57FpNY-NjwmTX-RCSOC3h1F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
